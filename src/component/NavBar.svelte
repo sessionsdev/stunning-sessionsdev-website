@@ -31,7 +31,7 @@
         <div class="navbar-item">
           <div class="buttons">
             <a href="/hire-me" class="button is-info">
-              <strong>CALL TO ACTION</strong>
+              <strong>HIRE ME</strong>
             </a>
           </div>
         </div>
